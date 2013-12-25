@@ -11,5 +11,6 @@ This document is made by [gitfab](http://gitfab.org)
 コウモリの羽ってかわいいですよね。形。
 
 
-![スクリーンショット 2013-12-24 14.47.51.png](https://raw.github.com/shinkiba0103/dool-mouse-by-shinkiba0103/master/)
+
+![bat.png](https://raw.github.com/shinkiba0103/dool-mouse-by-shinkiba0103/master/)
 ---
